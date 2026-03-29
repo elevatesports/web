@@ -1,5 +1,6 @@
 // --- STATE & DUMMY DATA ---
 const dummyBrands = [
+    { name: "Elevatesports", logo: "🏓Elevate Sports" }
     { name: "Butterfly", logo: "🦋 Butterfly" },
     { name: "Stiga", logo: "⭐ Stiga" },
     { name: "DHS", logo: "🏓 DHS" },
