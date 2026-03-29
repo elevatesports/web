@@ -20,24 +20,66 @@ const dummyBrands = [
 ];
 
 const dummyProducts = [
-    { 
-        id: 1, brand: "Butterfly", name: "Carbon Pro TT Blade", price: "₹4,500", 
-        img: "https://images.unsplash.com/photo-1606240224168-5452d2b51268?auto=format&fit=crop&q=80&w=600",
-        description: "A premium carbon blade designed for aggressive offensive players. Offers a massive sweet spot and incredible speed without compromising control.",
-        specs: { "Weight": "85g", "Plies": "5 Wood + 2 Carbon", "Style": "Offensive (OFF+)" }
-    },
-    { 
-        id: 2, brand: "Stiga", name: "SpinMaster Rubber (Red)", price: "₹2,100", 
-        img: "https://images.unsplash.com/photo-1626245001392-7abac1f9f9bc?auto=format&fit=crop&q=80&w=600",
-        description: "High-tension rubber providing maximum spin and dwell time. Perfect for modern topspin attackers.",
-        specs: { "Sponge Hardness": "Medium-Hard", "Thickness": "2.1mm", "Type": "Inverted" }
-    },
-    { 
-        id: 3, brand: "Joola", name: "Elevate Pro Tournament Table", price: "₹35,000", 
-        img: "https://images.unsplash.com/photo-1511516315533-356bc0a8504f?auto=format&fit=crop&q=80&w=600",
-        description: "ITTF approved competition table with a 25mm thick top for the truest bounce. Folds easily for compact storage.",
-        specs: { "Thickness": "25mm", "Weight": "115kg", "Certification": "ITTF Approved" }
-    }
+    {
+    id: 1, 
+    brand: "Butterfly", 
+    name: "TENERGY 05 TT Rubber", 
+    price: "₹5,549", 
+    originalPrice: "₹10,100", 
+    img: "https://image2url.com/r2/default/images/1774177748375-1d1576e7-6cec-4ba1-9739-fbf2d787d033.webp",
+    description: "Tenergy 05 is the original rubber in the Tenergy series, designed for players who thrive on topspin-heavy offensive play. Featuring High Tension and Spring Sponge technologies, it allows for explosive spin and consistent power close to or away from the table.",
+    specs: { "Type": "High Tension Pimple-In", "Technology": "High Tension, Spring Sponge", "Speed": "83", "Spin": "76", "Arc": "79", "Sponge Hardness": "36", "Sheet Color": "Red, Black", "Sponge Thickness": "2.1", "Country Of Origin": "Japan" }
+ },
+ {
+    id: 2, 
+    brand: "Butterfly", 
+    name: "TENERGY 05 FX TT Rubber", 
+    price: "₹5,249", 
+    originalPrice: "₹10,100", 
+    img: "https://image2url.com/r2/default/images/1774178820648-4c1f5a96-4a5b-4593-84ee-9a8a601f9263.webp",
+    description: "Tenergy FX produces a high level of control without losing high performance. Tenergy 05 FX combines High Tension technology with a version of Spring Sponge that produces a softer feeling. Tenergy 05 FX is the perfect answer for players who seek to play heavy topspin strokes, whilst maintaining control.",
+    specs: { "Type": "High Tension Pimple-In", "Technology": "High Tension, Spring Sponge", "Speed": "81", "Spin": "64", "Arc": "65", "Sponge Hardness": "32", "Sheet Color": "Red, Black", "Sponge Thickness": "2.1", "Country Of Origin": "Japan" }
+ },
+ {
+    id: 3, 
+    brand: "Butterfly", 
+    name: "DIGNICS 09 C TT Rubber", 
+    price: "₹6,449", 
+    originalPrice: "₹12,900", 
+    img: "https://image2url.com/r2/default/images/1774760646496-bb17b93b-38d7-41c6-8210-fbe82010fbff.webp",
+    description: "Compatible friction and a high level bounce is realised thanks to the synergy effect between the original top sheet and a rather hard Spring Sponge X. The pimples code No. 209 delivers topspin and defensive play with high amount of spin.",
+    specs: { "Type": "High Friction High Tension Pimples-In", "Technology": "High Tension, Spring SpongeX", "Speed": "79", "Spin": "96", "Arc": "96", "Sponge Hardness": "44", "Sheet Color": "Red, Black", "Sponge Thickness": "2.1", "Country Of Origin": "Japan" }
+ },
+ {
+    id: 4, 
+    brand: "Butterfly", 
+    name: "DIGNICS 05 TT Rubber", 
+    price: "₹6,349", 
+    originalPrice: "₹12,599", 
+    img: "https://image2url.com/r2/default/images/1774759354874-8f030ab2-2725-43e1-b6e6-f6a16a9da50c.webp",
+    description: "Dignics guides your play to a more advanced level. Adopting pimples code No. 05 recognised for its high spin performance, Dignics 05 is recommended for the player who seeks to generate a high level attacking play.",
+    specs: { "Type": "High Tension Pimples-In", "Technology": "High Tension, Spring SpongeX", "Speed": "86", "Spin": "85", "Arc": "88", "Sponge Hardness": "40", "Sheet Color": "Red, Black", "Sponge Thickness": "2.1", "Country Of Origin": "Japan" }
+ },
+ {
+    id: 5, 
+    brand: "Butterfly", 
+    name: "Glayzer 09C TT Rubber", 
+    price: "₹3,749", 
+    originalPrice: "₹8,999", 
+    img: "https://image2url.com/r2/default/images/1774761821421-e0b97df6-85c8-4965-a8f2-dde577922ff5.webp",
+    description: "Grey Spring Sponge X is applied to Glayzer 09C. Strokes with a stable trajectory are made possible, while combining powerful heavy spin with ease of over-the-table techniques at a high level.",
+    specs: { "Type": "High Tension High Friction Pimples-In", "Technology": "High Tension, Spring SpongeX", "Speed": "75", "Spin": "87", "Arc": "95", "Sponge Hardness": "42", "Sheet Color": "Red, Black", "Sponge Thickness": "2.1", "Country Of Origin": "Japan" }
+ },
+ {
+    id: 6, 
+    brand: "Butterfly", 
+    name: "Glayzer TT Rubber", 
+    price: "₹3,749", 
+    originalPrice: "₹8,999", 
+    img: "https://image2url.com/r2/default/images/1774762548074-05816153-4054-4102-9e58-476740c2c03c.webp",
+    description: "Grey Spring Sponge X is applied to Glayzer. Power, generated by spin, is brought to the stroke. A stable trajectory is made possible thanks to the combination of a top sheet which possesses the ideal feeling of holding the ball.",
+    specs: { "Type": "High Tension Pimples-In", "Technology": "High Tension, Spring SpongeX", "Speed": "81", "Spin": "83", "Arc": "82", "Sponge Hardness": "38", "Sheet Color": "Red, Black", "Sponge Thickness": "2.1", "Country Of Origin": "Japan" }
+ }
 ];
 
 // --- CORE APPLICATION LOGIC ---
