@@ -89,6 +89,26 @@ const dummyProducts = [
         img: "https://image2url.com/r2/default/images/1774763442688-30d7b73d-d5d9-47e0-808f-a9db99c97303.webp",
         description: "Yinhe 01B Table Tennis Racket is made of high quality 5 ply layered wood. The rubbers used are ITTF approved.",
         specs: { "Type": "Pre-assembled", "Plys": "5", "Rubber": "ITTF Approved" }
+    },
+    {
+        id: 8, 
+        brand: "Butterfly", 
+        name: "Timo Ball ALC TT Blade", 
+        price: "₹12,399", 
+        originalPrice: "₹22,999", 
+        img: "https://image2url.com/r2/default/images/1774768625593-a5b6b5fb-322f-4050-87fa-c7583af47544.webp",
+        description: "The Timo Boll ALC is a classic blade in the Butterfly line-up. Powerful attacking, as well as control, is made possible by applying Arylate-Carbon on the inside.",
+        specs: { "Type": "Offensive Shakehand","Country Of Origin": "Japan" }
+    },
+{
+        id: 9, 
+        brand: "Butterfly", 
+        name: "Butterfly Viscaria TT Blade", 
+        price: "₹11,999", 
+        originalPrice: "₹23,199", 
+        img: "https://image2url.com/r2/default/images/1774768570953-875d005b-2db2-4255-9565-e21d729cf92f.webp",
+        description: "Combining the advantages of high-tech fibers such as Arylate and carbon, the Viscaria blade is tailored masterfully towards variable attack with emphasis on spin. It is also the basis for many successful Arylate-Carbon based blades.",
+        specs: { "Type": "Offensive Shakehand","Country Of Origin": "Japan" }
     }
 ];
 
