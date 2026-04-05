@@ -115,7 +115,7 @@ const dummyProducts = [
         id: 10, 
         brand: "DHS", 
         name: "DHS 3 Star World Tour Dj40+ Table Tennis Ball pack of 6", 
-        price: "₹849", 
+        price: "₹799", 
         originalPrice: "₹1,499", 
         img: "https://image2url.com/r2/default/images/1775355798124-97513f3d-7786-4a22-9df2-e770be0f8168.webp",
         description: "The DJ40+ balls are used at ITTF World Tour events. This plastic seam ball is created from a new type of optimized ABS material, which provides a good bounce trajectory. With higher standards, this ball has more precise roundness, better flexibility, better resistance to hitting and enhanced durability. This ball is ITTF approved and is used in most international ITTF competitions.",
