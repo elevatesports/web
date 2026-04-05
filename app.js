@@ -110,6 +110,16 @@ const dummyProducts = [
         img: "https://image2url.com/r2/default/images/1774768570953-875d005b-2db2-4255-9565-e21d729cf92f.webp",
         description: "Combining the advantages of high-tech fibers such as Arylate and carbon, the Viscaria blade is tailored masterfully towards variable attack with emphasis on spin. It is also the basis for many successful Arylate-Carbon based blades.",
         specs: { "Type": "Offensive Shakehand","Country Of Origin": "Japan" }
+    },
+{
+        id: 10, 
+        brand: "DHS", 
+        name: "DHS 3 Star World Tour Dj40+ Table Tennis Ball pack of 6", 
+        price: "₹849", 
+        originalPrice: "₹1,499", 
+        img: "https://image2url.com/r2/default/images/1775355798124-97513f3d-7786-4a22-9df2-e770be0f8168.webp",
+        description: "The DJ40+ balls are used at ITTF World Tour events. This plastic seam ball is created from a new type of optimized ABS material, which provides a good bounce trajectory. With higher standards, this ball has more precise roundness, better flexibility, better resistance to hitting and enhanced durability. This ball is ITTF approved and is used in most international ITTF competitions.",
+        specs: { "Type": "Table Tennis Balls","Country Of Origin": "China" }
     }
 ];
 
