@@ -140,6 +140,16 @@ const dummyProducts = [
         img: "https://www.image2url.com/r2/default/images/1779255589852-ee64f288-1ce0-4ae6-b61c-ca42c4841f2d.jpg",
         description: "The andro ENERGY CELL sponge with highly elastic cell structure ensures an extremely dynamic energy transfer, especially for fast and hard topspins.The 53° sponge provides immediate feedback on ideal ball contact. You will be surprised how soft 53° can feel like.The R rubber surface for maximum rotation gains additively more impact through the ENERGY CELL sponge.",
         specs: { "Type": "Table Tennis Rubber","Country Of Origin": "Germany" }
+    },
+{
+        id: 13, 
+        brand: "Tibhar", 
+        name: "Tibhar GRASS D.TECS", 
+        price: "₹3,449", 
+        originalPrice: "₹6,999", 
+        img: "https://www.image2url.com/r2/default/images/1779256485082-0db1dc5d-6066-4628-8f94-a70930569ca0.jpg",
+        description: "he combination of the D.TecS technology with that of the classical Grass gives totally new varieties to both chop and chop block. The in-built tension of the rubber surface and sponge makes the pimples more elastic and produces incredible backspin.Excellent control and sufficient speed to counter your opponent’s disturbing, attacking shots.",
+        specs: { "Type": "Table Tennis Rubber","Country Of Origin": "Germany" }
     }
 ];
 
