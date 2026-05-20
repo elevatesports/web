@@ -120,6 +120,16 @@ const dummyProducts = [
         img: "https://image2url.com/r2/default/images/1775355798124-97513f3d-7786-4a22-9df2-e770be0f8168.webp",
         description: "The DJ40+ balls are used at ITTF World Tour events. This plastic seam ball is created from a new type of optimized ABS material, which provides a good bounce trajectory. With higher standards, this ball has more precise roundness, better flexibility, better resistance to hitting and enhanced durability. This ball is ITTF approved and is used in most international ITTF competitions.",
         specs: { "Type": "Table Tennis Balls","Country Of Origin": "China" }
+    },
+{
+        id: 11, 
+        brand: "Andro", 
+        name: "Andro Rasanter R48 Table Tennis Rubber", 
+        price: "₹3799", 
+        originalPrice: "₹6,999", 
+        img: "https://www.image2url.com/r2/default/images/1779254016898-05af3cbb-fedf-4917-b381-53f58467f3d3.webp",
+        description: "The R rubber surface for maximum rotation gains additional impact by the ENERGY CELL sponge.The ENERGY CELL sponge with its highly elastic cell structure ensures an extremely dynamic energy transfer for all topspin variations.",
+        specs: { "Type": "Table Tennis Rubber","Country Of Origin": "Germany" }
     }
 ];
 
