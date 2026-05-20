@@ -130,6 +130,16 @@ const dummyProducts = [
         img: "https://www.image2url.com/r2/default/images/1779254016898-05af3cbb-fedf-4917-b381-53f58467f3d3.webp",
         description: "The R rubber surface for maximum rotation gains additional impact by the ENERGY CELL sponge.The ENERGY CELL sponge with its highly elastic cell structure ensures an extremely dynamic energy transfer for all topspin variations.",
         specs: { "Type": "Table Tennis Rubber","Country Of Origin": "Germany" }
+    },
+ {
+        id: 12, 
+        brand: "Andro", 
+        name: "Andro Rasanter R50 Table Tennis Rubber", 
+        price: "₹3,399", 
+        originalPrice: "₹8,299", 
+        img: "https://www.image2url.com/r2/default/images/1779255589852-ee64f288-1ce0-4ae6-b61c-ca42c4841f2d.jpg",
+        description: "The andro ENERGY CELL sponge with highly elastic cell structure ensures an extremely dynamic energy transfer, especially for fast and hard topspins.The 53° sponge provides immediate feedback on ideal ball contact. You will be surprised how soft 53° can feel like.The R rubber surface for maximum rotation gains additively more impact through the ENERGY CELL sponge.",
+        specs: { "Type": "Table Tennis Rubber","Country Of Origin": "Germany" }
     }
 ];
 
