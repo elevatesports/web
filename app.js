@@ -150,6 +150,16 @@ const dummyProducts = [
         img: "https://www.image2url.com/r2/default/images/1779256485082-0db1dc5d-6066-4628-8f94-a70930569ca0.jpg",
         description: "he combination of the D.TecS technology with that of the classical Grass gives totally new varieties to both chop and chop block. The in-built tension of the rubber surface and sponge makes the pimples more elastic and produces incredible backspin.Excellent control and sufficient speed to counter your opponent’s disturbing, attacking shots.",
         specs: { "Type": "Table Tennis Rubber","Country Of Origin": "Germany" }
+    },
+{
+        id: 14, 
+        brand: "Yasaka", 
+        name: "Yasaka Rakza 7", 
+        price: "₹3,499", 
+        originalPrice: "₹6,999", 
+        img: "https://www.image2url.com/r2/default/images/1779354638546-0c2bd80f-b6cf-46d6-b928-26d506ac674b.webp",
+        description: "Rakza 7 is a well-balanced offensive rubber that blends spin, speed, and control, making it one of the most accessible and popular choices in the Rakza series. With a grippy high-natural-rubber topsheet and a medium-hard 45° sponge, it provides strong spin potential, controlled power, and a consistent feel for both forehand and backhand strokes.",
+        specs: { "Type": "Table Tennis Rubber","Country Of Origin": "Japan" }
     }
 ];
 
