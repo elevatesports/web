@@ -170,6 +170,16 @@ const dummyProducts = [
         img: "https://www.image2url.com/r2/default/images/1779355270801-81d46315-0221-4ee1-999a-d6791810edd6.webp",
         description: "Rakza 9 is a high-speed rubber designed for offensive players who rely on quick attacks and precise shot placement. It offers a low, direct trajectory with high spin potential, making it an excellent choice for aggressive loopers and counter-hitters looking to maximize speed without sacrificing control.",
         specs: { "Type": "Table Tennis Rubber","Country Of Origin": "Japan" }
+    },
+{
+        id: 16, 
+        brand: "Yasaka", 
+        name: "Yasaka Rakza 9", 
+        price: "₹3,599", 
+        originalPrice: "₹6,999", 
+        img: "https://www.image2url.com/r2/default/images/1779439228558-f6290c55-6f6a-4249-a16b-7b9bd53ee9c8.webp",
+        description: "Yasaka Rakza Z is a high-performance, hybrid-style table tennis rubber. It uniquely combines a tacky, sticky Chinese-style topsheet (for extreme grip and spin) with a European-style harder "power sponge" (for speed and high-arc loops).",
+        specs: { "Type": "Table Tennis Rubber","Country Of Origin": "Japan" }
     }
 ];
 
