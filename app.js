@@ -180,7 +180,18 @@ const dummyProducts = [
         img: "https://www.image2url.com/r2/default/images/1779439228558-f6290c55-6f6a-4249-a16b-7b9bd53ee9c8.webp",
         description: "Rakza Z is a high-performance table tennis rubber featuring a sticky top sheet and a hard Power Sponge, designed to provide exceptional grip, spin, and power. Ideal for attacking players, it excels in both close-to-the-table and mid-distance play, offering precise and sharp serves and returns.",
         specs: { "Type": "Table Tennis Rubber","Country Of Origin": "Japan" }
+    },
+{
+        id: 17, 
+        brand: "Butterfly", 
+        name: "Harimoto Innerforce ALC", 
+        price: "₹15,999", 
+        originalPrice: "₹25,999", 
+        img: "https://www.image2url.com/r2/default/images/1779441723760-9e2fb6a6-f878-4cfc-b81d-fa54f3fb2508.webp",
+        description: "The blade was developed in close cooperation with the Japanese superstar Tomokazu Harimoto. The slightly larger blade creates increased power while maintaining the popular stability, precision and punch of an Arylate-Carbon blade.",
+        specs: { "Type": "Table Tennis Blade","Country Of Origin": "Japan" }
     }
+
 ];
 
 // --- CORE APPLICATION LOGIC ---
