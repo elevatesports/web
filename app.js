@@ -178,7 +178,7 @@ const dummyProducts = [
         price: "₹3,599", 
         originalPrice: "₹6,999", 
         img: "https://www.image2url.com/r2/default/images/1779439228558-f6290c55-6f6a-4249-a16b-7b9bd53ee9c8.webp",
-        description: "Yasaka Rakza Z is a high-performance, hybrid-style table tennis rubber. It uniquely combines a tacky, sticky Chinese-style topsheet (for extreme grip and spin) with a European-style harder "power sponge" (for speed and high-arc loops).",
+        description: "Rakza Z is a high-performance table tennis rubber featuring a sticky top sheet and a hard Power Sponge, designed to provide exceptional grip, spin, and power. Ideal for attacking players, it excels in both close-to-the-table and mid-distance play, offering precise and sharp serves and returns.",
         specs: { "Type": "Table Tennis Rubber","Country Of Origin": "Japan" }
     }
 ];
