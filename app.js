@@ -174,7 +174,7 @@ const dummyProducts = [
 {
         id: 16, 
         brand: "Yasaka", 
-        name: "Yasaka Rakza 9", 
+        name: "Yasaka Rakza Z", 
         price: "₹3,599", 
         originalPrice: "₹6,999", 
         img: "https://www.image2url.com/r2/default/images/1779439228558-f6290c55-6f6a-4249-a16b-7b9bd53ee9c8.webp",
