@@ -200,7 +200,18 @@ const dummyProducts = [
         img: "https://www.image2url.com/r2/default/images/1779516318721-5acebd60-49ca-431b-b3e5-c52829a7958c.webp",
         description: "Rozena, a rubber equipped with ground-breaking Spring Sponge technology; its main feature is high tolerance realised thanks to the combination of Spring Sponge dyed in rose with an exclusively developed top-sheet. The unique High Tension technology developed by Butterfly enables powerful strokes to be exerted as well as a high level of consistency in play created by compensating for the delicate errors such as blade angle and direction. Rozena follows the quality of its legendary predecessors by demonstrating its effectiveness in play close to the table or at mid-distance.",
         specs: { "Type": "Table Tennis Rubber","Country Of Origin": "Japan" }
+    },
+{
+        id: 19, 
+        brand: "Tibhar", 
+        name: "Carbon Shot Table Tennis Blade", 
+        price: "₹2,599", 
+        originalPrice: "₹5,999", 
+        img: "https://www.image2url.com/r2/default/images/1779516877861-06d3148f-ac35-433f-9cbc-552a483549e9.webp",
+        description: "Introducing the Tibhar Carbon Shot Table Tennis Blade, the ultimate choice for players seeking a 7-ply blade with exceptional speed. Crafted with 5 layers of wood and 2 layers of carbon, this blade offers unbeatable performance for beginner to intermediate players.With a speed rating of 10.0 and a control rating of 7.4, it strikes the perfect balance between power and precision. Pair it with the Tibhar Aurus rubber for an unstoppable combination. Unlock your true potential on the table with the Tibhar Carbon Shot Table Tennis Blade.",
+        specs: { "Type": "Table Tennis Blade","Country Of Origin": "Germany" }
     }
+
 
 
 
