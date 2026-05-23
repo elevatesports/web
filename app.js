@@ -190,7 +190,19 @@ const dummyProducts = [
         img: "https://www.image2url.com/r2/default/images/1779441723760-9e2fb6a6-f878-4cfc-b81d-fa54f3fb2508.webp",
         description: "The blade was developed in close cooperation with the Japanese superstar Tomokazu Harimoto. The slightly larger blade creates increased power while maintaining the popular stability, precision and punch of an Arylate-Carbon blade.",
         specs: { "Type": "Table Tennis Blade","Country Of Origin": "Japan" }
+    },
+{
+        id: 18, 
+        brand: "Butterfly", 
+        name: "Rozena Table Tennis Rubber", 
+        price: "₹3,499", 
+        originalPrice: "₹6,999", 
+        img: "https://www.image2url.com/r2/default/images/1779516318721-5acebd60-49ca-431b-b3e5-c52829a7958c.webp",
+        description: "Rozena, a rubber equipped with ground-breaking Spring Sponge technology; its main feature is high tolerance realised thanks to the combination of Spring Sponge dyed in rose with an exclusively developed top-sheet. The unique High Tension technology developed by Butterfly enables powerful strokes to be exerted as well as a high level of consistency in play created by compensating for the delicate errors such as blade angle and direction. Rozena follows the quality of its legendary predecessors by demonstrating its effectiveness in play close to the table or at mid-distance.",
+        specs: { "Type": "Table Tennis Rubber","Country Of Origin": "Japan" }
     }
+
+
 
 ];
 
