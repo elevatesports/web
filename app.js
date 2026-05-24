@@ -210,7 +210,28 @@ const dummyProducts = [
         img: "https://www.image2url.com/r2/default/images/1779516877861-06d3148f-ac35-433f-9cbc-552a483549e9.webp",
         description: "Introducing the Tibhar Carbon Shot Table Tennis Blade, the ultimate choice for players seeking a 7-ply blade with exceptional speed. Crafted with 5 layers of wood and 2 layers of carbon, this blade offers unbeatable performance for beginner to intermediate players.With a speed rating of 10.0 and a control rating of 7.4, it strikes the perfect balance between power and precision. Pair it with the Tibhar Aurus rubber for an unstoppable combination. Unlock your true potential on the table with the Tibhar Carbon Shot Table Tennis Blade.",
         specs: { "Type": "Table Tennis Blade","Country Of Origin": "Germany" }
+    },
+{
+        id: 20, 
+        brand: "Yasaka", 
+        name: "MARK V table tennis rubber", 
+        price: "₹2,199", 
+        originalPrice: "₹5,499", 
+        img: "https://www.image2url.com/r2/default/images/1779590745947-12c73064-11bc-4202-9628-c2ea18fe2054.webp",
+        description: "The Mark V-series is a classic choice for players seeking speed and control. Known for its high-quality rubber, it delivers exceptional spin and power, making it a top pick for competitive play.",
+        specs: { "Type": "Table Tennis Rubber","Country Of Origin": "Japan" }
+    },
+{
+        id: 21, 
+        brand: "Tibhar", 
+        name: "Tibhar Evolution MX-P Table Tennis Rubber", 
+        price: "₹3,599", 
+        originalPrice: "₹5,599", 
+        img: "https://www.image2url.com/r2/default/images/1779592969560-b85cb033-3a3b-4ebc-a4aa-848f5a4c4a9f.webp",
+        description: "The Tibhar Evolution MX-P is one of the most popular and highly-regarded attacking table tennis rubbers globally. It is designed for aggressive, topspin-oriented players who demand maximum speed, explosive power, and heavy spin without sacrificing control.",
+        specs: { "Type": "Table Tennis Rubber","Country Of Origin": "Germany" }
     }
+
 
 
 
