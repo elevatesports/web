@@ -230,7 +230,17 @@ const dummyProducts = [
         img: "https://www.image2url.com/r2/default/images/1779592969560-b85cb033-3a3b-4ebc-a4aa-848f5a4c4a9f.webp",
         description: "The Tibhar Evolution MX-P is one of the most popular and highly-regarded attacking table tennis rubbers globally. It is designed for aggressive, topspin-oriented players who demand maximum speed, explosive power, and heavy spin without sacrificing control.",
         specs: { "Type": "Table Tennis Rubber","Country Of Origin": "Germany" }
-    }
+    },
+    {
+        id: 22, 
+        brand: "Butterfly", 
+        name: "Butterfly Mizutani Jun ZLC FL Table Tennis blade", 
+        price: "₹15,749", 
+        originalPrice: "₹30,999", 
+        img: "https://www.image2url.com/r2/default/images/1779594027569-5bef5b19-544e-4a92-9858-4c5c5976af9f.webp",
+        description: "The blade which supported Jun Mizutani’s career.ZL-Carbon features lightness, high bounce and elasticity. The Mizutani Jun ZLC is recommended for players who aim to have a versatile game and play from various distances like Jun Mizutani did.",
+        specs: { "Type": "Offensive Shakehand","Country Of Origin": "Japan" }
+    },
 
 
 
